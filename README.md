@@ -8,10 +8,3 @@ From loading and cleaning raw data in Python, to performing data cleaning, explo
 
 🎯 Whether you’re applying for Data Analyst jobs or building your portfolio, this project has everything:
 
-✅ Define a real business problem statement from a retail company use case
-✅ Load, clean, and transform data using Python (pandas)
-✅ Simulate business transactions and run advanced queries using SQL
-✅ Visualize insights through a beautiful Power BI dashboard
-✅ Create a project report for documentation (mandatory in real teams)
-✅ Build a presentation deck using Gamma AI
-✅ Publish everything on GitHub to make your portfolio stand out
